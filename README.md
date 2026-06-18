@@ -18,4 +18,4 @@ I'm Nahidul Islam,  Data Analyst
 
 Feel free to contact me. I am always looking for new challenges and opportunities to apply my skills and experience in the data domain.
 
-* [LinkedIn](www.linkedin.com/in/nahidul63333)
+* [LinkedIn](https://www.linkedin.com/in/nahidul-islam-data-analyst/)
